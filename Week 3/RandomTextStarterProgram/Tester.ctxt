@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tester
+comment1.params=
+comment1.target=MarkovOne\ createMarkovOne()
+comment2.params=
+comment2.target=void\ testGetFollows()
+comment3.params=
+comment3.target=void\ testGetFollowsWithFile()
+numComments=4
